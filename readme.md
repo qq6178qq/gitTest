@@ -4,7 +4,7 @@
 - git init   
 - git status   
 - git add   
-- git commit -m ""   
+- git commit -m "commit訊息"   
 - git diff   
 - git reset --hard HEAD   
 - git branch name   
